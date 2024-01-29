@@ -7,8 +7,7 @@ This project is based on mmrotate 1.x(https://github.com/open-mmlab/mmrotate/tre
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={FPNFormer: Rethink the Method of Processing the Rotation-Invariance and Rotation-Equivariance on Arbitrary-Oriented Object Detection}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={62},
+  pages={1-10},
   doi={10.1109/TGRS.2024.3351156}}
 ```
